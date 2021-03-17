@@ -14,7 +14,7 @@ je dois savoire Quelle bloc ?
 * sur Desktop tu as 2 vidéos (une tout en haut et une en milieu de page).
 sur Responsive, la 2ème vidéo a n'apparait pas.
 
-** corige
+** corrige
 
 -----
 
